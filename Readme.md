@@ -1,7 +1,7 @@
 # Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Алексей](https://up.htmlacademy.ru/adaptive/20/user/895691).
-* Наставник: `Неизвестно`.
+* Наставник: [Ярослав Петухов](https://htmlacademy.ru/profile/yaroslav).
 
 ---
 
